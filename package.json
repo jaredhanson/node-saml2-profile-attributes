@@ -1,7 +1,7 @@
 {
   "name": "saml2-profile-attributes",
   "version": "0.0.1",
-  "description": "Parse profile-related SAML attributes.",
+  "description": "Parse profile-related attributes in a SAML assertion.",
   "keywords": [
     "profile",
     "saml",
