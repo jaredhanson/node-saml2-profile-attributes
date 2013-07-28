@@ -27,7 +27,9 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "xmldom": "0.1.x"
+    "xmldom": "0.1.x",
+    "xtraverse": "0.0.x",
+    "utils-merge": "1.x.x"
   },
   "devDependencies": {
     "mocha": "1.x.x",
