@@ -1,7 +1,7 @@
 var profile = require('index')
   , fs = require('fs');
 
-describe('attribute statment issued by https://openidp.feide.no', function() {
+describe('SAML assertion with attributes issued by https://openidp.feide.no', function() {
     
   var xml = fs.readFileSync(__dirname + '/data/openidp.feide.no/1.xml', 'utf8');
     
