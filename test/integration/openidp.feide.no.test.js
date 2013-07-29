@@ -3,7 +3,7 @@ var profile = require('index')
 
 describe('SAML assertion with attributes issued by https://openidp.feide.no', function() {
     
-  var xml = fs.readFileSync(__dirname + '/data/openidp.feide.no/1.xml', 'utf8');
+  var xml = fs.readFileSync(__dirname + '/../data/openidp.feide.no/2013-07-26_20-10-06.xml', 'utf8');
     
   it('should parse correctly', function() {
     var prof = profile.parse(xml);
