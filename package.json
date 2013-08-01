@@ -27,8 +27,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "xmldom": "0.1.x",
-    "xtraverse": "0.0.x",
+    "xtraverse": "0.1.x",
     "utils-merge": "1.x.x"
   },
   "devDependencies": {
