@@ -1,4 +1,4 @@
-var profile = require('..')
+var profile = require('../..')
   , fs = require('fs');
 
 describe('SAML assertion without an attribute statement', function() {
