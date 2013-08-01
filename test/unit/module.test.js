@@ -1,4 +1,4 @@
-var profile = require('index');
+var profile = require('../..');
 
 describe('saml2-profile-attributes', function() {
     

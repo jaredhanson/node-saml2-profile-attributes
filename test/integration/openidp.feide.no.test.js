@@ -1,4 +1,4 @@
-var profile = require('index')
+var profile = require('../..')
   , fs = require('fs');
 
 describe('SAML assertion with attributes issued by https://openidp.feide.no', function() {
